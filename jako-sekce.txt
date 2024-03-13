@@ -1,0 +1,13 @@
+sections
+	Jak se připojit s java edicí
+	Jak se připojit s bedrock edicí
+	Jak se připojit z konzole
+	Pravidla
+	Po připojení
+	
+	
+	Jak server funguje
+	
+	Co používáme za pluginy 
+	specifikace serveru
+	
